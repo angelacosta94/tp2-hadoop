@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>bigdata.tp2.ProcessUnits</mainClass>
+                            <mainClass>bigdata.tp2.ConsumosPorMes</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
